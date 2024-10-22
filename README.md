@@ -1,2 +1,2 @@
 # Tailwind-CSS
-Setup
+Setup for Tailwind
